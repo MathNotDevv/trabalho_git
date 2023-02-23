@@ -11,7 +11,6 @@ public class Main {
 		String a = t.nextLine();
 		System.out.println("Olá " + a);
 		System.out.println("Olá, Mundoo");
-
 	}
 
 }
